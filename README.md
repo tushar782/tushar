@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushar Pimple</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <img align="right" alt="developer" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ5uxXavPA3TlYokqtaeutVBaTOaBuM6j6_A&s">
 
